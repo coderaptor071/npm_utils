@@ -1,0 +1,12 @@
+{
+  "name": "helpe-me",
+  "version": "1.0.0",
+  "description": "Common helper function required in day to day coding",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Simarpal Singh",
+  "license": "MIT"
+}
